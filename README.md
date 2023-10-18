@@ -38,6 +38,10 @@ This is the tech stack used by the app:
 - Technology X
 - XXXXXXX
 
+## Code Conventions
+
+This repository follows the XXX code conventions.
+
 ## License
 
 Repo-Template is licensed under the standard MIT license.
