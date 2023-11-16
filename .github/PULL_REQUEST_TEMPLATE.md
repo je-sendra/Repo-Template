@@ -1,29 +1,27 @@
-<!-- Thank you for contributing to Repo-Template.
-Please complete the following template to submit your pull request. -->
+<!-- Thanks for contributing to Repo-Template.
+Please fill this form to create a new pull request. -->
+
+# PR
 
 ## Description
 
-Please include a summary of the change and which issue is fixed. Please also include relevant motivation and context. List any dependencies that are required for this change.
+Please include a summary of the change and what problem(s) it solves.
 
 Fixes # (issue)
 
-## Type of change
+## Added dependencies
 
-Please mark all options that apply.
+Please list any added dependencies for this change.
 
-- [ ] Bug fix (non-breaking change which fixes an issue)
-- [ ] New feature (non-breaking change which adds functionality)
-- [ ] Breaking change (fix or feature that would cause existing functionality to not work as expected)
-- [ ] This change requires a documentation update
+## Testing
 
-## How Has This Been Tested?
+Please describe all tests ran to verify your changes. Provide instructions to reproduce them. Also list any relevant detail about your testing configuration. Please describe the added unit tests as well.
 
-Please describe the tests that you ran to verify your changes. Provide instructions so we can reproduce. Please also list any relevant details for your test configuration.
+## Checklist
 
-## Checklist:
-
-- [ ] My code follows the style guidelines of this project
-- [ ] I have performed a self-review of my own code
-- [ ] I have commented my code, particularly in hard-to-understand areas
-- [ ] I have made corresponding changes to the documentation
+- [ ] My code follows the coding and style conventions for this project
+- [ ] I made a self-evaluation of my code
+- [ ] I commented my code, specially in hard to understand areas
+- [ ] I made the corresponding changes to the documentation
 - [ ] My changes generate no new warnings
+- [ ] I created unit tests for my code
